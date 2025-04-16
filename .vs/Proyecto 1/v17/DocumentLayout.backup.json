@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nopes\\Downloads\\Notify\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\backend\\notify\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\backend\\notify\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|c:\\users\\nopes\\downloads\\notify\\main\\proyecto 1\\backend\\notify\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\backend\\notify\\seccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|c:\\users\\nopes\\downloads\\notify\\main\\proyecto 1\\backend\\notify\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\backend\\notify\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|c:\\users\\nopes\\downloads\\notify\\main\\proyecto 1\\backend\\notify\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\backend\\notify\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|c:\\users\\nopes\\downloads\\notify\\main\\proyecto 1\\backend\\notify\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\backend\\notify\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\grupos\\grupos_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\grupos\\grupos_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|c:\\users\\nopes\\downloads\\notify\\main\\proyecto 1\\frontend\\notify\\usuarios\\usuarios_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\usuarios\\usuarios_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\notificaciones\\notificaciones_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\notificaciones\\notificaciones_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\mainmenu\\menu_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\mainmenu\\menu_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\mainmenu\\menu_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\mainmenu\\menu_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\usuarios\\usuarios_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\usuarios\\usuarios_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\area\\f_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\area\\f_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\notify\\notificaciones\\notificaciones_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\notify\\notificaciones\\notificaciones_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\area\\f_crear_actualizar_area.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\area\\f_crear_actualizar_area.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\area\\f_crear_actualizar_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\area\\f_crear_actualizar_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\area\\f_crear_actualizar_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\area\\f_crear_actualizar_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|C:\\Users\\nopes\\Downloads\\Notify\\main\\proyecto 1\\frontend\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECB4EC2-1FD4-4DF7-AE44-17AE4E0EB9DC}|Proyecto 1\\Proyecto 1.csproj|solutionrelative:proyecto 1\\frontend\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seccion.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Seccion.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\BackEnd\\Notify\\Seccion.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Seccion.cs",
+              "RelativeToolTip": "Proyecto 1\\BackEnd\\Notify\\Seccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:10:29.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Notificacion.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\BackEnd\\Notify\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Notificacion.cs",
+              "RelativeToolTip": "Proyecto 1\\BackEnd\\Notify\\Notificacion.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:10:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Grupo.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\BackEnd\\Notify\\Grupo.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Grupo.cs",
+              "RelativeToolTip": "Proyecto 1\\BackEnd\\Notify\\Grupo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:10:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Administrador.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\BackEnd\\Notify\\Administrador.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Administrador.cs",
+              "RelativeToolTip": "Proyecto 1\\BackEnd\\Notify\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:10:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\BackEnd\\Notify\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\BackEnd\\Notify\\Usuarios.cs",
+              "RelativeToolTip": "Proyecto 1\\BackEnd\\Notify\\Usuarios.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:03:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "usuarios_view.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwDgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:03:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu_Admin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:00:22.367Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "f_area.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_area.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Area\\f_area.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_area.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Area\\f_area.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:59:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "notificaciones_view.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:35:28.832Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usuarios_view.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\USUARIOS\\usuarios_view.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:35:32.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grupos_view.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\GRUPOS\\grupos_view.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\GRUPOS\\grupos_view.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\GRUPOS\\grupos_view.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\GRUPOS\\grupos_view.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:49:34.499Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\MainMenu\\Menu_Admin.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:16:24.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "notificaciones_view.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Notify\\NOTIFICACIONES\\notificaciones_view.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:44:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "f_crear_actualizar_area.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.Designer.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.Designer.cs",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:02:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "f_menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\f_menu.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\f_menu.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\f_menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\f_menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:59:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "f_crear_actualizar_area.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:59:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "f_crear_actualizar_area.cs",
+              "DocumentMoniker": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "RelativeDocumentMoniker": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "ToolTip": "C:\\Users\\nopes\\Downloads\\Notify\\main\\Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "RelativeToolTip": "Proyecto 1\\FrontEnd\\Area\\f_crear_actualizar_area.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAnwGMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:59:57.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
