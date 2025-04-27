@@ -13,6 +13,7 @@ using System.Windows.Forms;
 using Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User;
 using MaterialSkin.Controls;
 using Proyecto_1.BackEnd;
+using Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User;
 
 namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO
 {
@@ -55,7 +56,9 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO
 
         private void btn_secciones_Click(object sender, EventArgs e)
         {
-
+            SecNot sn = new SecNot(u);
+            sn.Show();
+            this.Hide();    
         }
     }
 }

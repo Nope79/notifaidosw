@@ -46,6 +46,20 @@ C:\Users\nopes\OneDrive\Escritorio\Escuela\BD\Unidad 2\Proyecto 1\Proyecto 1\Pro
 C:\Users\nopes\OneDrive\Escritorio\Escuela\BD\Unidad 2\Proyecto 1\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.exe
 C:\Users\nopes\OneDrive\Escritorio\Escuela\BD\Unidad 2\Proyecto 1\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.pdb
 C:\Users\nopes\OneDrive\Escritorio\Escuela\BD\Unidad 2\Proyecto 1\Proyecto 1\Proyecto 1\bin\Debug\MaterialSkin.dll
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.Properties.Resources.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.GenerateResource.cache
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.GRUPOS.grupos_mod.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.GRUPOS.grupos_view.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MainMenu.Menu_Admin.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.MENU_USER.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User.UserNot.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User.SecNot.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.NOTIFICACIONES.Form1.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.NOTIFICACIONES.notificaciones_mod.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.NOTIFICACIONES.notificaciones_view.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.USUARIOS.usuarios_view.resources
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Proyecto 1.exe.config
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Proyecto 1.exe
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Proyecto 1.pdb
@@ -57,6 +71,7 @@ C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\MaterialSkin.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\MySql.Data.dll
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Buffers.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -74,6 +89,7 @@ C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\K4os.Compression.LZ4.S
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\MySql.Data.xml
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Buffers.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
@@ -82,23 +98,6 @@ C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Memory.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.AssemblyReference.cache
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Area.f_area.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Area.f_crear_actualizar_area.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Inventario.f_crear_actualizar_inventario.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.f_inventario.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.f_menu.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.GRUPOS.grupos_view.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.NOTIFICACIONES.notificaciones_view.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.USUARIOS.usuarios_view.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.Properties.Resources.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.GenerateResource.cache
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.CoreCompileInputs.cache
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.Up2Date
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.exe
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.pdb
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MainMenu.Menu_Admin.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.MENU_USER.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User.UserNot.resources
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Newtonsoft.Json.dll
-C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\Newtonsoft.Json.xml

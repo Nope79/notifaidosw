@@ -23,7 +23,6 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
         {
             this.u = u;
             InitializeComponent();
-            Text = "Notificaciones de " + u.usuario;
             rutaArchivoJson = @"C:\Users\nopes\Downloads\Notify\main\Proyecto 1\JSON_\NotificacionesUsuario\" + u.usuario + ".json";
         }
 
@@ -35,7 +34,7 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
 
         private void btn_back_Click(object sender, EventArgs e)
         {
-            MENU_USER m = new MENU_USER(new Usuario(1, "Juan"));
+            MENU_USER m = new MENU_USER(u);
             m.Show();
             this.Hide();
         }
@@ -61,6 +60,7 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
                         }
                     }
 
+                    notificacionesJsonExistentes.OrderByDescending(n => n.FECHA);
                     JsonHelper.GuardarNotificacionesJson(notificacionesJsonExistentes, rutaArchivoJson);
 
                     BindingList<NotificacionJson> bindingList = new BindingList<NotificacionJson>(notificacionesJsonExistentes);

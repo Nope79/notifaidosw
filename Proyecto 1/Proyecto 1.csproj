@@ -106,44 +106,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BackEnd\Areas.cs" />
     <Compile Include="BackEnd\Conexion.cs" />
-    <Compile Include="BackEnd\Inventarios.cs" />
     <Compile Include="BackEnd\Notify\Administrador.cs" />
     <Compile Include="BackEnd\Notify\Grupo.cs" />
     <Compile Include="BackEnd\Notify\Notificacion.cs" />
     <Compile Include="BackEnd\Notify\Seccion.cs" />
     <Compile Include="BackEnd\Notify\Usuarios.cs" />
     <Compile Include="CustomUI.cs" />
-    <Compile Include="FrontEnd\Area\f_area.cs">
+    <Compile Include="FrontEnd\Notify\CRUD_USUARIOS.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrontEnd\Area\f_area.Designer.cs">
-      <DependentUpon>f_area.cs</DependentUpon>
+    <Compile Include="FrontEnd\Notify\CRUD_USUARIOS.Designer.cs">
+      <DependentUpon>CRUD_USUARIOS.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrontEnd\Area\f_crear_actualizar_area.cs">
+    <Compile Include="FrontEnd\Notify\GRUPOS\grupos_mod.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrontEnd\Area\f_crear_actualizar_area.Designer.cs">
-      <DependentUpon>f_crear_actualizar_area.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrontEnd\InventarioF\f_crear_actualizar_inventario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrontEnd\InventarioF\f_crear_actualizar_inventario.Designer.cs">
-      <DependentUpon>f_crear_actualizar_inventario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrontEnd\InventarioF\f_inventario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrontEnd\InventarioF\f_inventario.Designer.cs">
-      <DependentUpon>f_inventario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrontEnd\f_menu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrontEnd\f_menu.Designer.cs">
-      <DependentUpon>f_menu.cs</DependentUpon>
+    <Compile Include="FrontEnd\Notify\GRUPOS\grupos_mod.Designer.cs">
+      <DependentUpon>grupos_mod.cs</DependentUpon>
     </Compile>
     <Compile Include="FrontEnd\Notify\GRUPOS\grupos_view.cs">
       <SubType>Form</SubType>
@@ -169,6 +149,24 @@
     <Compile Include="FrontEnd\Notify\MENU_USUARIO\Notificacion_User\UserNot.Designer.cs">
       <DependentUpon>UserNot.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\SecNot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\SecNot.Designer.cs">
+      <DependentUpon>SecNot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\NOTIFICACIONES\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\NOTIFICACIONES\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\NOTIFICACIONES\notificaciones_mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\NOTIFICACIONES\notificaciones_mod.Designer.cs">
+      <DependentUpon>notificaciones_mod.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrontEnd\Notify\NOTIFICACIONES\notificaciones_view.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -186,20 +184,8 @@
     <Compile Include="MaterialUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrontEnd\Area\f_area.resx">
-      <DependentUpon>f_area.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrontEnd\Area\f_crear_actualizar_area.resx">
-      <DependentUpon>f_crear_actualizar_area.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrontEnd\InventarioF\f_crear_actualizar_inventario.resx">
-      <DependentUpon>f_crear_actualizar_inventario.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrontEnd\InventarioF\f_inventario.resx">
-      <DependentUpon>f_inventario.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrontEnd\f_menu.resx">
-      <DependentUpon>f_menu.cs</DependentUpon>
+    <EmbeddedResource Include="FrontEnd\Notify\GRUPOS\grupos_mod.resx">
+      <DependentUpon>grupos_mod.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrontEnd\Notify\GRUPOS\grupos_view.resx">
       <DependentUpon>grupos_view.cs</DependentUpon>
@@ -212,6 +198,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrontEnd\Notify\MENU_USUARIO\Notificacion_User\UserNot.resx">
       <DependentUpon>UserNot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\SecNot.resx">
+      <DependentUpon>SecNot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontEnd\Notify\NOTIFICACIONES\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontEnd\Notify\NOTIFICACIONES\notificaciones_mod.resx">
+      <DependentUpon>notificaciones_mod.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrontEnd\Notify\NOTIFICACIONES\notificaciones_view.resx">
       <DependentUpon>notificaciones_view.cs</DependentUpon>
@@ -244,7 +239,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="FrontEnd\Notify\MENU_USUARIO\Grupo_User\" />
-    <Folder Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\" />
     <Folder Include="JSON_\NotificacionesUsuario\" />
     <Folder Include="System\" />
   </ItemGroup>

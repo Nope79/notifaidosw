@@ -30,7 +30,7 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.main_panel = new System.Windows.Forms.Panel();
             this.lbl_bienvenue = new MaterialSkin.Controls.MaterialLabel();
             this.grid_panel = new System.Windows.Forms.Panel();
@@ -92,14 +92,14 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
             this.dgv_not_impor.BackgroundColor = System.Drawing.Color.LightSlateGray;
             this.dgv_not_impor.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.dgv_not_impor.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgv_not_impor.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgv_not_impor.DefaultCellStyle = dataGridViewCellStyle1;
             this.dgv_not_impor.Location = new System.Drawing.Point(40, 38);
             this.dgv_not_impor.Name = "dgv_not_impor";
             this.dgv_not_impor.ReadOnly = true;
@@ -108,7 +108,7 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
             this.dgv_not_impor.RowTemplate.Height = 24;
             this.dgv_not_impor.Size = new System.Drawing.Size(857, 269);
             this.dgv_not_impor.TabIndex = 6;
-            this.dgv_not_impor.CellContentClick += new DataGridViewCellEventHandler(dgv_not_impor_CellContentClick);
+            this.dgv_not_impor.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_not_impor_CellContentClick);
             // 
             // menu_panel
             // 
@@ -139,74 +139,72 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User
             this.btn_general.UseVisualStyleBackColor = true;
             this.btn_general.Click += new System.EventHandler(this.btn_notificacion_Click);
             // 
+            // btn_activas
             // 
-            {
-                // 
-                this.btn_activas.AutoSize = true;
-                this.btn_activas.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-                this.btn_activas.Depth = 0;
-                this.btn_activas.Icon = null;
-                this.btn_activas.Location = new System.Drawing.Point(3, 128);
-                this.btn_activas.MouseState = MaterialSkin.MouseState.HOVER;
-                this.btn_activas.Name = "btn_activas";
-                this.btn_activas.Primary = true;
-                this.btn_activas.Size = new System.Drawing.Size(93, 36);
-                this.btn_activas.TabIndex = 2;
-                this.btn_activas.Text = "Activas";
-                this.btn_activas.UseVisualStyleBackColor = true;
-                this.btn_activas.Click += new System.EventHandler(this.btn_activas_Click);
-                // 
-                // btn_ocultas
-                // 
-                this.btn_ocultas.AutoSize = true;
-                this.btn_ocultas.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-                this.btn_ocultas.Depth = 0;
-                this.btn_ocultas.Icon = null;
-                this.btn_ocultas.Location = new System.Drawing.Point(3, 219);
-                this.btn_ocultas.MouseState = MaterialSkin.MouseState.HOVER;
-                this.btn_ocultas.Name = "btn_ocultas";
-                this.btn_ocultas.Primary = true;
-                this.btn_ocultas.Size = new System.Drawing.Size(98, 36);
-                this.btn_ocultas.TabIndex = 1;
-                this.btn_ocultas.Text = "Ocultas";
-                this.btn_ocultas.UseVisualStyleBackColor = true;
-                this.btn_ocultas.Click += new System.EventHandler(this.btn_ocultas_Click);
-                // 
-                // btn_back
-                // 
-                this.btn_back.AutoSize = true;
-                this.btn_back.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-                this.btn_back.Depth = 0;
-                this.btn_back.Icon = null;
-                this.btn_back.Location = new System.Drawing.Point(3, 344);
-                this.btn_back.MouseState = MaterialSkin.MouseState.HOVER;
-                this.btn_back.Name = "btn_back";
-                this.btn_back.Primary = true;
-                this.btn_back.Size = new System.Drawing.Size(107, 36);
-                this.btn_back.TabIndex = 0;
-                this.btn_back.Text = "Regresar";
-                this.btn_back.UseVisualStyleBackColor = true;
-                this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
-                // 
-                // UserNot
-                // 
-                this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-                this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-                this.ClientSize = new System.Drawing.Size(1245, 480);
-                this.Controls.Add(this.main_panel);
-                this.Name = "UserNot";
-                this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-                this.Text = "Usuario";
-                this.Load += new System.EventHandler(this.UserNot_Load);
-                this.main_panel.ResumeLayout(false);
-                this.main_panel.PerformLayout();
-                this.grid_panel.ResumeLayout(false);
-                ((System.ComponentModel.ISupportInitialize)(this.dgv_not_impor)).EndInit();
-                this.menu_panel.ResumeLayout(false);
-                this.menu_panel.PerformLayout();
-                this.ResumeLayout(false);
+            this.btn_activas.AutoSize = true;
+            this.btn_activas.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btn_activas.Depth = 0;
+            this.btn_activas.Icon = null;
+            this.btn_activas.Location = new System.Drawing.Point(3, 128);
+            this.btn_activas.MouseState = MaterialSkin.MouseState.HOVER;
+            this.btn_activas.Name = "btn_activas";
+            this.btn_activas.Primary = true;
+            this.btn_activas.Size = new System.Drawing.Size(93, 36);
+            this.btn_activas.TabIndex = 2;
+            this.btn_activas.Text = "Activas";
+            this.btn_activas.UseVisualStyleBackColor = true;
+            this.btn_activas.Click += new System.EventHandler(this.btn_activas_Click);
+            // 
+            // btn_ocultas
+            // 
+            this.btn_ocultas.AutoSize = true;
+            this.btn_ocultas.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btn_ocultas.Depth = 0;
+            this.btn_ocultas.Icon = null;
+            this.btn_ocultas.Location = new System.Drawing.Point(3, 219);
+            this.btn_ocultas.MouseState = MaterialSkin.MouseState.HOVER;
+            this.btn_ocultas.Name = "btn_ocultas";
+            this.btn_ocultas.Primary = true;
+            this.btn_ocultas.Size = new System.Drawing.Size(98, 36);
+            this.btn_ocultas.TabIndex = 1;
+            this.btn_ocultas.Text = "Ocultas";
+            this.btn_ocultas.UseVisualStyleBackColor = true;
+            this.btn_ocultas.Click += new System.EventHandler(this.btn_ocultas_Click);
+            // 
+            // btn_back
+            // 
+            this.btn_back.AutoSize = true;
+            this.btn_back.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btn_back.Depth = 0;
+            this.btn_back.Icon = null;
+            this.btn_back.Location = new System.Drawing.Point(3, 344);
+            this.btn_back.MouseState = MaterialSkin.MouseState.HOVER;
+            this.btn_back.Name = "btn_back";
+            this.btn_back.Primary = true;
+            this.btn_back.Size = new System.Drawing.Size(107, 36);
+            this.btn_back.TabIndex = 0;
+            this.btn_back.Text = "Regresar";
+            this.btn_back.UseVisualStyleBackColor = true;
+            this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
+            // 
+            // UserNot
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1245, 480);
+            this.Controls.Add(this.main_panel);
+            this.Name = "UserNot";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Notificaciones";
+            this.Load += new System.EventHandler(this.UserNot_Load);
+            this.main_panel.ResumeLayout(false);
+            this.main_panel.PerformLayout();
+            this.grid_panel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgv_not_impor)).EndInit();
+            this.menu_panel.ResumeLayout(false);
+            this.menu_panel.PerformLayout();
+            this.ResumeLayout(false);
 
-            }
         }
 
         #endregion

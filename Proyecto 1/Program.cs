@@ -2,8 +2,6 @@
 using System.Windows.Forms;
 using Not.Backend;
 using Proyecto_1.FrontEnd;
-using Proyecto_1.FrontEnd.Area;
-using Proyecto_1.FrontEnd.Inventario;
 using Proyecto_1.FrontEnd.Notify;
 using Proyecto_1.FrontEnd.Notify.MainMenu;
 using Proyecto_1.FrontEnd.Notify.MENU_USUARIO;
