@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User;
 
 namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User
 {
@@ -31,6 +32,20 @@ namespace Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User
         {
             MENU_USER m = new MENU_USER(u);
             m.Show();
+            this.Hide();
+        }
+
+        private void btn_add_Click(object sender, EventArgs e)
+        {
+            seccion_mod sm = new seccion_mod(u, 1);
+            sm.Show();
+            this.Hide();
+        }
+
+        private void btn_update_Click(object sender, EventArgs e)
+        {
+            seccion_mod sm = new seccion_mod(u, 2);
+            sm.Show();
             this.Hide();
         }
     }

@@ -101,3 +101,5 @@ C:\Users\nopes\Downloads\Notify\main\Proyecto 1\bin\Debug\System.Threading.Tasks
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.Up2Date
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.exe
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.pdb
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Seccion_User.seccion_mod.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.USUARIOS.usuarios_mod.resources

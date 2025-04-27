@@ -149,6 +149,12 @@
     <Compile Include="FrontEnd\Notify\MENU_USUARIO\Notificacion_User\UserNot.Designer.cs">
       <DependentUpon>UserNot.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\seccion_mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\seccion_mod.Designer.cs">
+      <DependentUpon>seccion_mod.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\SecNot.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -198,6 +204,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrontEnd\Notify\MENU_USUARIO\Notificacion_User\UserNot.resx">
       <DependentUpon>UserNot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\seccion_mod.resx">
+      <DependentUpon>seccion_mod.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrontEnd\Notify\MENU_USUARIO\Seccion_User\SecNot.resx">
       <DependentUpon>SecNot.cs</DependentUpon>
