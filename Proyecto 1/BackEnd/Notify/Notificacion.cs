@@ -20,6 +20,7 @@ namespace Not.Backend
         public string remitente;
         public string receptor;
         public string descripcion;
+        public string fecha;
         public bool prioridad;
         Conexion c = new Conexion();
 
@@ -81,7 +82,7 @@ namespace Not.Backend
                 c.OpenConnection();
 
                 string username = u.usuario;
-                string query = "select tipo as TIPO, remitente as REMITENTE, descripcion as DESCRIPCIÓN, fecha as FECHA from notificacion where receptor = " + '"' + username + '"';
+                string query = "select idn as ID, tipo as TIPO, remitente as REMITENTE, descripcion as DESCRIPCIÓN, fecha as FECHA from notificacion where receptor = " + '"' + username + '"' + " order by fecha desc";
                 using (MySqlCommand command = new MySqlCommand(query, c.GetConnection()))
                 {
                     using (MySqlDataAdapter adapter = new MySqlDataAdapter(command))
@@ -101,6 +102,29 @@ namespace Not.Backend
 
             return dataTable;
         }
+
+        public List<NotificacionJson> ConvertirDataTableALista(DataTable dt, Usuario u)
+        {
+            List<NotificacionJson> listaNotificaciones = new List<NotificacionJson>();
+
+            foreach (DataRow row in dt.Rows)
+            {
+                NotificacionJson notificacion = new NotificacionJson
+                {
+                    ID = Convert.ToInt32(row["id"]),
+                    TIPO = row["tipo"].ToString(),
+                    REMITENTE = row["remitente"].ToString(),
+                    DESCRIPCIÓN = row["descripción"].ToString(),
+                    FECHA = row["fecha"].ToString(),
+                    ESTADO = true
+                };
+
+                listaNotificaciones.Add(notificacion);
+            }
+
+            return listaNotificaciones;
+        }
+
 
         public DataTable mostrar_not_importantes()
         {

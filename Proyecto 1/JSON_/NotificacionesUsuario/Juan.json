@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 21,
+    "TIPO": "Centro Computo",
+    "REMITENTE": "it@empresa.com",
+    "DESCRIPCIÓN": "oh mi dios...",
+    "FECHA": "10/04/2025 12:00:00 a. m.",
+    "ESTADO": true
+  },
+  {
+    "ID": 19,
+    "TIPO": "dostres",
+    "REMITENTE": "sistema@empresa.com",
+    "DESCRIPCIÓN": "muchos",
+    "FECHA": "09/04/2025 12:00:00 a. m.",
+    "ESTADO": true
+  },
+  {
+    "ID": 23,
+    "TIPO": "Biblioteca",
+    "REMITENTE": "direccion@empresa.com",
+    "DESCRIPCIÓN": "no",
+    "FECHA": "09/04/2025 12:00:00 a. m.",
+    "ESTADO": false
+  },
+  {
+    "ID": 20,
+    "TIPO": "Fiesta",
+    "REMITENTE": "rh@empresa.com",
+    "DESCRIPCIÓN": "Botones de gomita",
+    "FECHA": "08/04/2025 12:00:00 a. m.",
+    "ESTADO": false
+  },
+  {
+    "ID": 22,
+    "TIPO": "Club de Programación",
+    "REMITENTE": "admin@empresa.com",
+    "DESCRIPCIÓN": "wayando",
+    "FECHA": "07/04/2025 12:00:00 a. m.",
+    "ESTADO": false
+  }
+]
