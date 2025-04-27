@@ -38,6 +38,12 @@ namespace Not.Backend
             this.id_admin = id_admin;
         }
 
+        public Usuario(int id, string usuario)
+        {
+            this.id = id;
+            this.usuario = usuario;
+        }
+
         public bool crear_seccion()
         {
             return false;

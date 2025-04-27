@@ -235,5 +235,10 @@ namespace Proyecto_1.FrontEnd.Notify.MainMenu
         {
             // aqui se regresaría al login xd
         }
+
+        private void dgv_main_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

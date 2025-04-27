@@ -72,6 +72,65 @@ namespace Not.Backend
             return dataTable;
         }
 
+        public DataTable mostrar_not_usuario(Usuario u)
+        {
+            DataTable dataTable = new DataTable();
+
+            try
+            {
+                c.OpenConnection();
+
+                string username = u.usuario;
+                string query = "select tipo as TIPO, remitente as REMITENTE, descripcion as DESCRIPCIÓN, fecha as FECHA from notificacion where receptor = " + '"' + username + '"';
+                using (MySqlCommand command = new MySqlCommand(query, c.GetConnection()))
+                {
+                    using (MySqlDataAdapter adapter = new MySqlDataAdapter(command))
+                    {
+                        adapter.Fill(dataTable);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                //Console.WriteLine(ex);
+            }
+            finally
+            {
+                c.CloseConnection();
+            }
+
+            return dataTable;
+        }
+
+        public DataTable mostrar_not_importantes()
+        {
+            DataTable dataTable = new DataTable();
+
+            try
+            {
+                c.OpenConnection();
+
+                string query = "select remitente as REMITENTE, descripcion as DESCRIPCIÓN, fecha as FECHA from notificacion where tipo = 'Importante' order by fecha desc";
+                using (MySqlCommand command = new MySqlCommand(query, c.GetConnection()))
+                {
+                    using (MySqlDataAdapter adapter = new MySqlDataAdapter(command))
+                    {
+                        adapter.Fill(dataTable);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                //Console.WriteLine(ex);
+            }
+            finally
+            {
+                c.CloseConnection();
+            }
+
+            return dataTable;
+        }
+
         public bool crear_notificacion(Notificacion n)
         {
             MySqlTransaction tran = null;

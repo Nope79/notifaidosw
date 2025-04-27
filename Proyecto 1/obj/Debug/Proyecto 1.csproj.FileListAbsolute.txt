@@ -98,3 +98,5 @@ C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.csproj.Up2D
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.exe
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto 1.pdb
 C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MainMenu.Menu_Admin.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.MENU_USER.resources
+C:\Users\nopes\Downloads\Notify\main\Proyecto 1\obj\Debug\Proyecto_1.FrontEnd.Notify.MENU_USUARIO.Notificacion_User.UserNot.resources
